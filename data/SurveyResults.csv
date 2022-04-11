@@ -1,0 +1,14 @@
+No;Group;Impairment;HighestDegreeInCs;YearsOfGeneralProg;YearsOfProfProg;JavaSkill;MainProgLang;UsedDarcula;MostUsedHighlighting;CurrentEditor;CurrentColorScheme;BeforeFindRelevantSymbols;BeforeMemorize;BeforeUnderstandStructure;BeforeMoreEfficient;AfterFindRelevantSymbols;AfterMemorize;AfterUnderstandStructure;AfterMoreEfficient;a1Time;a1Sureness;a1Correct;c2Time;c2Sureness;c2Correct;d3Time;d3Sureness;d3Correct;p4Time;p4Sureness;p4Correct;c1Time;c1Sureness;c1Correct;a2Time;a2Sureness;a2Correct;p3Time;p3Sureness;p3Correct;d4Time;d4Sureness;d4Correct
+P01;A;No;BSc;6;1;0;Embedded C;Don’t know;Syntax;VS Code;VS Code Standard Dark;4;3;4;5;4;4;5;5;04:22,733;80;No;15:42,745;40;No;03:29,032;80;Yes;13:26,237;60;No;;;;;;;;;;;;
+P02;B;No;BSc;6;1;2;C#;Yes;Semantic;IntelliJ,   VS Code;Default Dark;4;2;5;4;4;1;5;5;;;;;;;;;;;;;06:05,271;60;No;03:08,373;65;No;15:00,658;60;No;05:21,548;80;Yes
+P03;A;No;BSc;6;2;1;Javascript;Yes;Semantic;Visual Studio;Default Dark;5;4;5;5;5;4;5;5;05:25,475;100;Yes;17:15,322;85;Yes;03:57,602;100;No;10:07,895;90;Yes;;;;;;;;;;;;
+P04;B;No;MSc;8;3;2;Typescript;Yes;Syntax;VS Code;Default Dark;5;4;4;4;5;2;4;4;;;;;;;;;;;;;20:41,343;5;No;05:05,374;65;No;13:56,391;50;No;05:01,344;65;Yes
+P05;A;No;MSc;20;12;2;Typescript;Yes;Semantic;IntelliJ;Default Dark;4;3;5;4;4;3;5;4;04:59,074;0;No;07:56,299;70;No;03:51,401;80;No;14:15,837;10;No;;;;;;;;;;;;
+P06;B;No;BSc;2;2;2;Java;Yes;Syntax;Notepad++, WebIDE;Notepad++ dark, WebIDE light;5;3;4;4;4;3;4;3;;;;;;;;;;;;;12:21,000;50;No;11:41,968;30;No;11:35,206;50;No;09:03,414;80;No
+P07;A;red-green visual impairment;BSc;7;4;2;Typescript;Yes;Semantic;VS Code;Dark Sea;5;4;5;5;2;2;5;4;05:50,118;65;No;17:39,385;90;Yes;05:41,521;95;No;13:09,764;70;Yes;;;;;;;;;;;;
+P08;A;No;BSc;9;4;2;PHP, Typescript;Yes;Semantic;PhpStorm;Default Dark;5;2;3;4;2;2;4;4;02:53,147;15;No;20:05,000;15;No;05:38,920;90;No;10:09,230;65;No;;;;;;;;;;;;
+P09;B;No;BSc;6;2,5;2;Typescript;Yes;Semantic;VS Code;Default Dark;5;4;5;5;5;4;5;5;;;;;;;;;;;;;24:32,751;5;No;07:45,414;100;Yes;23:09,412;0;No;03:58,180;100;Yes
+P10;A;No;Voc;15;13;1;Typescript;Yes;Semantic;VS Code;Monokai Dark;5;5;5;5;5;5;5;5;07:27,854;90;No;14:24,759;65;No;07:37,505;95;No;16:55,375;50;No;;;;;;;;;;;;
+P11;B;No;Voc;8;5;1;C++;No;Semantic;Visual Studio;Light;5;4;4;5;5;5;5;5;;;;;;;;;;;;;26:59,193;50;No;05:10,291;80;Yes;14:07,766;85;No;04:40,070;80;Yes
+P12;B;No;MSc;18;14;2;Typescript;Yes;Semantic;IntelliJ;Default Dark;5;3;2;4;5;3;2;4;;;;;;;;;;;;;16:27,660;35;Yes;05:33,400;80;Yes;15:49,306;20;No;09:13,014;80;Yes
+P14;B;No;BSc;10;4;2;Typescript;Yes;Semantic;IntelliJ;Default Light;4;2;5;4;4;2;5;4;;;;;;;;;;;;;09:14,439;80;No;04:21,754;95;Yes;17:49,160;90;Yes;06:31,280;95;Yes
